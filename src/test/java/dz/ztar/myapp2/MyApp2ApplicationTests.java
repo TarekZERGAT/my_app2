@@ -10,7 +10,7 @@ class MyApp2ApplicationTests {
 
     @Test
     void contextLoads() {
-        final int A = 12;
+        final int A = 0;
         assertThat(A>0).isTrue();
     }
 
