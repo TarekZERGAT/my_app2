@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @GetMapping("/test")
     public String getTestMessage(){
-        return "This is response message from Nedjla BOUROUIS";
+        return "This is response message from Nedjla BOUROUIS AND tarek ZERGAT";
     }
 }
